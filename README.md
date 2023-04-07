@@ -48,9 +48,7 @@ The Analysis was done in Four(4)  broad Headers and relevant insight were genera
 
 ![](Customers_image.jpg)
 
-It analyse the Customer's Spending pattern,the Demography as well as the Yearly Order Trend.
-
-Eight (8) Insights were generated namely:
+It analyses the Customer's Spending pattern,the Demography as well as the Yearly Order Trend. Eight (8) Insights were generated namely:
 -  Number of Customers
 -  Number of Order
 -  Highest Spender
@@ -60,6 +58,16 @@ Eight (8) Insights were generated namely:
 -  Number of Customer Order by Fiscal Quarter
 -  Customers spending by State Province Top(5)
 
+2. ## Products:
+
+![](Products_image.jpg)
+
+It Analyses the Product range in terms of Price,Category and Sub Category. Five (5) Insights were created namely:
+- Number of Products
+- Cheapest Product
+- Expensive Products
+- Sales by Product Category
+- Sales by Product Sub Category
 
 
 
