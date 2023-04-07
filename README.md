@@ -58,7 +58,7 @@ It analyses the Customer's Spending pattern,the Demography as well as the Yearly
 -  Number of Customer Order by Fiscal Quarter
 -  Customers spending by State Province Top(5)
 
-![](Customer_dashboard.png)
+![](Customer_dashboard.png) 
 
 ## 2. Products:
 
