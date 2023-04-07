@@ -69,5 +69,18 @@ It Analyses the Product range in terms of Price,Category and Sub Category. Five 
 - Sales by Product Category
 - Sales by Product Sub Category
 
+3. ## Reseller:
+
+![](Reseller_image.jpg)
+
+It Analyse the performance of the Resellers in their region of Operations and individual contribution to the Business for the Period under review.
+Five (5) Insights were created namely:
+- Number of Resellers
+- Reseller Sales by Business Types
+- Top(5) Reseller by Sales
+- Top(5) Reseller Sales by State-Province
+- Reseller Sales by Country-Region
+
+
 
 
