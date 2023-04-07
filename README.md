@@ -34,6 +34,32 @@ Customerer_dirty          |     Customer_clean
 :-----------------------|-----------------------:
 ![](Customer_dirty.png) | ![](Customer_clean.png)
 
+Thereafter two  new Relationships were created on the Sales table.First by joining the Sales Table with the Customer Table using the CustomerIDKey Column.Secondly the Sales table was joined with the Date Table using the DateKey Column.The two joins were executed using the  Primary /Foreign Key relationship that exist on the respective Tables. Unwanted Columns were removed and the Clean Dataset(7 Tables) were loaded into PowerBI for analysis.
+
+Model_before            |     Model_after
+:-----------------------|-----------------------:
+![](Model_before.png)   | ![](Model_after.png)
+
+## Analysis and Visualization:
+
+The Analysis was done in Four(4)  broad Headers and relevant insight were generated accordingly.The Headers are :
+
+1. ## Customers :
+
+![](Customers_image.jpg)
+
+It analyse the Customer's Spending pattern,the Demography as well as the Yearly Order Trend.
+
+Eight (8) Insights were generated namely:
+-  Number of Customers
+-  Number of Order
+-  Highest Spender
+-  Lowest Spender
+-  Customers spending by Country-Region
+-  Number of Customer Order by Fiscal Year
+-  Number of Customer Order by Fiscal Quarter
+-  Customers spending by State Province Top(5)
+
 
 
 
