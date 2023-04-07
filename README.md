@@ -44,7 +44,7 @@ Model_before            |     Model_after
 
 The Analysis was done in Four(4)  broad Headers and relevant insight were generated accordingly.The Headers are :
 
-1. ## Customers :
+## 1. Customers :
 
 ![](Customers_image.jpg)
 
@@ -58,7 +58,7 @@ It analyses the Customer's Spending pattern,the Demography as well as the Yearly
 -  Number of Customer Order by Fiscal Quarter
 -  Customers spending by State Province Top(5)
 
-2. ## Products:
+## 2. Products:
 
 ![](Products_image.jpg)
 
@@ -69,9 +69,9 @@ It Analyses the Product range in terms of Price,Category and Sub Category. Five 
 - Sales by Product Category
 - Sales by Product Sub Category
 
-3. ## Reseller:
+## 3.  Reseller:
 
-![](Reseller_image.jpg)
+![](Reseller_image1.jpg)
 
 It Analyse the performance of the Resellers in their region of Operations and individual contribution to the Business for the Period under review.
 Five (5) Insights were created namely:
@@ -81,6 +81,26 @@ Five (5) Insights were created namely:
 - Top(5) Reseller Sales by State-Province
 - Reseller Sales by Country-Region
 
+## 4. Management:
 
+![](Management_image.jpg)
+
+It gives an Insight to the Management on the overall outlook of the Business in terms of Profitability.Six (6) Insights were created namely:
+- Profit
+- Profit by Group
+- Profit by Channel
+- Profit by Country
+- Income by Cost by Fiscal Year
+- Profit by Fiscal Year
+
+## Conclusion/Recommendation:
+
+For the Period under review, **Park ‘n’ Ride** generated a whopping $13M in Profit with 96% of it coming through Internet Channel while 4% was through Resellers.
+FY2020 was the Year with the Highest Income($51M) and Highest Profit($5.8M) which can be attributed to highest Volume of Order processed while FY2018 was the Least($23) and Profit($3).United States with over $4M generated the highest Profit while Canada with Slightly over $1M, generated the least.
+
+The highest Selling Products by Category is Bike($95) and Road Bikes Sub Category($44M).The Cheapest Product on the Shelf is $2.29 while the most Expensive is $35,800.
+From the Analysis,Customers tend to prefer Direct Online Purchase as this count for $29M of the Total Sales and the woeful performance of the Resellers in terms of Sales need further Analysis.
+The recommendation is Park ‘n’ Ride should enhance the Online Order Process and take a comprehensive review of the over 700 Reseller on their books to understand their challenges in contributing to the bottom line of the business.
+Furthermore Customers that Ordered Online should be assigned a unique CustomerID and necessary information obtained rather then the  “Not Applicable” entries adopted.
 
 
