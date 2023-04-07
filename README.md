@@ -19,15 +19,21 @@ The assumed Raw DataSet is the Excel Sales file of  AdentureWorks 2019 provided 
 7. Customer Data
 
 ## Skills Demonstrated:
-Data Cleaning and Exploratory Skills were deployed in cleaning up the Data and to normalized/Standardized for missing values.Also two additional relationships were created using the Knowledge of Joining base on Primary and Foreign Key relationship of the Tables.
+Data Cleaning and Exploratory Skills were deployed to identify Rows and Columns that require cleaning,normalizing/Standardizing.Also two additional relationships were created using the Knowledge of Joining base on Primary and Foreign Key relationship that exist in the Tables.
 
 ## Data Transformation/Modelling:
-Rows with missing values and wrong entry were identified. For example, in the Reseller and Customer Table, missing values were Normalized and Standardized in line with other entries in the respective Tables.
-
-In the ResellerID Column,a row with value of [Not Applicable] was normalized to AW00000000 and other Columns and rows with [Not Applicable] were normalized to “Direct Order” to reflect that the Reseller is an **Online Merchant** with a Virtual Address.
+Rows with missing values and wrong entry were identified. For example, In the Reseller Table,ResellerID Column has a row with value of [Not Applicable].This was normalized to AW00000000.Other Columns and Rows with [Not Applicable] were normalized to “Direct Sales” to reflect that the Reseller is an **Online Merchant** with a Virtual Address.
 
 Reseller_dirty          |     Reseller_clean
 :-----------------------|-----------------------:
 ![](Reseller_dirty.png) | ![](Reseller_clean.png)
+
+Also in the Customer Table, CustomerID Column has a row with value of [Not Applicable].This was normalized to AW00010000. Other Columns and Rows with [Not Applicable] were normalized to “Direct Sales” to reflect that the **Online Customer** i.e the Customer order or make the purchase Online with a Virtual Address.
+
+Customerer_dirty          |     Customer_clean
+:-----------------------|-----------------------:
+![](Customer_dirty.png) | ![](Customer_clean.png)
+
+
 
 
